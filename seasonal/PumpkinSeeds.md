@@ -24,4 +24,4 @@
 - Seperate seeds from water and let dry for a while (minimum 30 min, I've done overnight before too though)
 - Add Oil to dry-ish seeds and mix to coat seeds in oil. Also, this is a good time to add Kosher Salt and Garlic Powder (or any other spices) to taste so that the seeds are coated.
 - Spread thinly on baking sheets (preferably with edges)
-- Bake at 350 F for 35 min
+- Bake at 350 F for 30 min
