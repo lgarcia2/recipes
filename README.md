@@ -1,2 +1,2 @@
-# recipes
-Personal Record of Recipes
+# Recipes
+Personal Collection of Recipes
