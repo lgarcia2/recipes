@@ -32,7 +32,8 @@ Somewhat based on https://hildaskitchenblog.com/recipe/how-to-make-a-gallon-of-c
 ## Notes
 
 - Starting Gravity - 2022-07-27 - 1.0825
-- Ending Gravity - 
+- Ending Gravity - 2022-09-05 - 1.0080
+- ABV - 9.78% (https://www.brewersfriend.com/abv-calculator/)
 
 
 
