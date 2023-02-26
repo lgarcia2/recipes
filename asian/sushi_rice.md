@@ -11,18 +11,18 @@ Somewhat based on Alton Brown's https://www.foodnetwork.com/recipes/alton-brown/
     - 1 cup
 - Water
     - 2 cups
-- Rice Vinegar (or apple cider vinegar)
+- Rice Vinegar (apple cider vinegar can make a good substitute)
     - 1 tbsp
 - Sugar
-    - t tbsp
+    - 1 tbsp
 - Salt
-    - 1 tsp table salt
+    - 1/2 tsp table salt
 
 
 ## Steps
 
 - Combine Ingredients in Rice Cooker and Start on "White Rice" setting
-- Chill
+- Chill if preferred
 
 
 ## Other Notes
